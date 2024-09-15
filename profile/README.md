@@ -1,6 +1,4 @@
-# Clutch Engineering
-
-## Designing for the long tail
+# Designing for the long tail
 
 Founded in 2024 in Montecito, California, Clutch Engineering is an independent, self-funded business.
 
